@@ -1,29 +1,102 @@
 body
 {
-    background-color: aliceblue;
-    
+    background-color: darkslategray;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    color: whitesmoke;
 }
+
 
 h1
 {
     text-align: center;
-    font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }
 
 h2
 {
     text-align: center;
-    font-family: 'Roboto', Arial, Helvetica, sans-serif;
     color: red;
 }
 
 .photo
-{
+{   
+    border-radius: 5px;
+    border-color: black;
     width: 200px;
     height: 200px;
+    
 }
 
 .Informations personnelles
 {
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.citation
+{
+    border: 2px solid black;
+    background-color: rgb(43, 1, 81);
+    padding-left: 10px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 40px;
+}
+
+.Anecdote
+{
+    border: 2px solid black;
+    padding-left: 10px;
+    margin-left: 60px;
+    margin-top: 60px;
+    margin-right: 60px;
+}
+
+.Formation
+{
+    border: 2px solid black;
+    margin-top: 40px;
+    margin-left: 10px;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 60px;
+    margin-right: 300px;
     
+}
+
+.Expériences
+{
+    border: 2px solid black;
+    margin-top: 40px;
+    margin-left: 10px;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 60px;
+    margin-right: 300px;
+}
+
+.ACD
+{
+    border: 2px solid black;
+    margin-top: 40px;
+    margin-left: 10px;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 60px;
+    margin-right: 300px;    
+}
+
+.CI
+{
+    border: 2px solid black;
+    margin-top: 40px;
+    margin-left: 10px;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 60px;
+    margin-right: 300px;    
+}
+
+h3
+{
+    color: red;
 }
