@@ -1,6 +1,6 @@
 body
 {
-    background-color: darkslategray;
+    background-color: rgb(10, 84, 84);
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
     color: whitesmoke;
 }
@@ -35,7 +35,7 @@ h2
 .citation
 {
     border: 2px solid black;
-    background-color: rgb(43, 1, 81);
+    background-color: rgb(72, 2, 134);
     padding-left: 10px;
     margin-left: 60px;
     margin-right: 60px;
@@ -99,4 +99,8 @@ h2
 h3
 {
     color: red;
+}
+
+.center {
+    padding: 0 20%;
 }
